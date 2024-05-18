@@ -1,0 +1,14 @@
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\bin\Debug\net8.0\exercicio vet 18-5-1.exe
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\bin\Debug\net8.0\exercicio vet 18-5-1.deps.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\bin\Debug\net8.0\exercicio vet 18-5-1.runtimeconfig.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\bin\Debug\net8.0\exercicio vet 18-5-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\bin\Debug\net8.0\exercicio vet 18-5-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\exercicio vet 18-5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\exercicio vet 18-5-1.AssemblyInfoInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\exercicio vet 18-5-1.AssemblyInfo.cs
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\exercicio vet 18-5-1.csproj.CoreCompileInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\exercicio vet 18-5-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\refint\exercicio vet 18-5-1.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\exercicio vet 18-5-1.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\exercicio vet 18-5-1.genruntimeconfig.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicio vet 18-5-1\exercicio vet 18-5-1\obj\Debug\net8.0\ref\exercicio vet 18-5-1.dll
